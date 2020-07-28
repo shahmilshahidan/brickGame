@@ -1,0 +1,10 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+canvas {
+    background: #fbf68d; 
+    margin: auto;
+    display: block;
+    outline: #2c3539 2px dashed; 
+}
